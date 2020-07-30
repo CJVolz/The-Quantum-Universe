@@ -8,8 +8,31 @@ Taking inspiration from Desiree Vogt-Lee's absolutely fantastic "Awesome Quantum
 - Qftics (to be created soon) <br />
 - Quantum Undergrads Unite <br />
 
+### Slack
+
 ### Reddit
 - Quantum  - [r/quantum](https://www.reddit.com/r/quantum/) <br />
   - note:  Quantum Physics (r/QuantumPhysics) redirects to Quantum <br />
 - Quantum Computing - [r/QuantumComputing](https://www.reddit.com/r/QuantumComputing/) <br />
 - Quantum Information - [r/QuantumInformation](https://www.reddit.com/r/QuantumInformation/) <br />
+
+### Others
+
+## Organisations
+
+## Social Medias
+### YouTube Channels
+
+### Podcasts
+
+### Instagrams
+
+### Twitters
+
+## News and Blogs
+
+## Online Learning
+
+## Games
+
+## Simulators
