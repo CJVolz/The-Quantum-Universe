@@ -36,7 +36,7 @@ Discord:  [(People Interested in) Quantum Universal Education server](https://di
 _Based in Seattle with a global audience, this group puts on many events online and conducts open source projects._ <br />
 website:  [WIQCA website](https://www.wiqca.dev/) <br />
 Meetups:  [WIQCA meetups]() <br />
-Slack:  [WIQCA group](https://join.slack.com/t/wiqca/shared_invite/zt-9nlk2f4y-vVY5gtm1WNnqsUQZ7b3f6g) **(need to fix)**<br />
+Slack:  [WIQCA group](https://join.slack.com/t/wiqca/shared_invite/zt-9nlk2f4y-vVY5gtm1WNnqsUQZ7b3f6g) <br />
 Twitter:  [@WIQCA](https://twitter.com/wiqca) <br />
 GitHub:  [WIQCA repos](https://github.com/wiqca) <br />
 
