@@ -20,3 +20,5 @@ Taking inspiration from Desiree Vogt-Lee's absolutely fantastic "Awesome Quantum
 ## [Games and Simulators](Games_and_Simulators.md)
 
 ## [Books](Books_and_Papers.md)
+
+## [Companies and Organisations](Companies_and_Organisations.md)
