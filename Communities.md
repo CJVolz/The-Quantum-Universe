@@ -9,7 +9,7 @@ _Devoted to fostering connections with undergrads globally, and highlighting res
 _Founded by Daniel Colomer as a basecamp to learn new topics and ideas and discuss them with peers_ <br />
 website:  [uncertain-systems.com](https://uncertain-systems.com/) <br />
 YouTube:  [Quantum Intuition](https://www.youtube.com/channel/UC-2knDbf4kzT3uzWo7iTJyw) <br />
-Discord:  [Quantum Intuition server]() <br /> <br />
+Discord:  [Quantum Intuition server]() (link to be added) <br /> <br />
 
 
 ## Reddit <br />
