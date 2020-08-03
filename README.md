@@ -11,27 +11,26 @@ Welcome to the Quantum Universe.  Taking inspiration from Desiree Vogt-Lee's abs
 - string theory,
 - and more.  <br />
 
-In other words, this is designed to be the ultimate directory of resources for all things quantum.  This is open for all people to use and if you've got a suggestion for me to add or modify sections, just send it my way and I'll look at it.  
+In other words, this is designed to be the ultimate directory of resources for all things quantum.  This is open for all people to use and if you've got a suggestion for me to add or modify a section or have new sections, just send it my way and I'll look at it.  <br /> <br />
 
-## [Online Communities](Communities.md) <br />
+## Table of Contents
+### [Online Communities](Communities.md) <br />
 List of servers and places that facilitates communities <br />
 [Reddit](Communities.md/Reddit) <br />
 
-## [News and Social Medias](News_and_Social_Medias.md)
-### YouTube Channels
+### [News and Social Medias](News_and_Social_Medias.md)
+News Sites <br />
+Blogs <br />
+YouTube Channels <br />
+Podcasts <br />
+Instagrams <br />
+Twitters <br />
+Others? <br /> <br />
 
-### Podcasts
+### [Online Learning](Online_Learning.md)
 
-### Instagrams
+### [Books, Notes, and Papers](Books_and_Papers.md)
 
-### Twitters
+### [Games and Simulators](Games_and_Simulators.md)
 
-### News and Blogs
-
-## [Online Learning](Online_Learning.md)
-
-## [Games and Simulators](Games_and_Simulators.md)
-
-## [Books](Books_and_Papers.md)
-
-## [Companies and Organisations](Companies_and_Organisations.md)
+### [Tech Companies and Organisations](Companies_and_Organisations.md)
