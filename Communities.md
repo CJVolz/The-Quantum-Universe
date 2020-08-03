@@ -18,10 +18,10 @@ _Devoted to fostering connections with undergrads globally, and highlighting res
  - WhatsApp:  <br />
  
 **Quantum Intuition** <br />
-_Founded by Daniel Colomer as a basecamp to learn new topics and ideas and discuss them with peers_ <br />
+_Founded by Daniel Colomer as a basecamp with a focus on algorithms and circuits, but open to learning and discussion about all topics and ideas in quantum computing among peers of all experience levels._ <br />
 website:  [uncertain-systems.com](https://uncertain-systems.com/) <br />
 YouTube:  [Quantum Intuition](https://www.youtube.com/channel/UC-2knDbf4kzT3uzWo7iTJyw) <br />
-Discord:  [Quantum Intuition server]() (link to be added) <br />
+Discord:  [Quantum Intuition server]() **(link to be added)** <br />
 
 **Quantum Universal Education** <br />
 _Founded by Lia Yeh to create a space for open source learning and projects._ <br />
@@ -29,13 +29,19 @@ website:  [Fullstack Quantum Computing](https://fullstackquantumcomputation.tech
 Discord:  [(People Interested in) Quantum Universal Education server](https://discord.gg/NDm9e9W) <br />
 
 **Women in Quantum Computing and Applications (WIQCA)** <br />
-_Based in Seattle with a global audience, this group puts on many events online and conduct open source projects._ <br />
+_Based in Seattle with a global audience, this group puts on many events online and conducts open source projects._ <br />
 website:  [WIQCA website](https://www.wiqca.dev/) <br />
 Meetups:  [WIQCA Meetups]() <br />
-Slack:  [Slack group](wiqca.slack.com) <br />
+Slack:  [Slack group](wiqca.slack.com) **(need to fix)**<br />
 Twitter:  [@WIQCA](https://twitter.com/wiqca) <br />
 Github:  [Organisation Repository](https://github.com/wiqca) <br />
 
+**Indi Quantum Community** <br />
+_An international group formed from the Indian Qiskit School that was created as a study group during the QGSS 2020 focusing on promoting the quantum foundations for undergrads and high school students._ <br />
+Discord: [IQC server](https://discord.gg/XpUpDm4) <br />
+Slack:  []() **to add**<br /> 
+WhatsApp:  ["Qiskit Summer School" chat](https://bit.ly/2ZISxvi) <br />
+Github:  []() **to add**<br />
 
 ## National Communities <br />
 **Quantum Hispano** <br />
@@ -44,10 +50,18 @@ Facebook:  [QH group](https://www.facebook.com/groups/291702898702788) <br />
 Discord:  [QH server](https://discord.gg/sNMu8w) <br />
 WhatsApp:  [QH chat](https://chat.whatsapp.com/G1l2iyrCN9u0OIsZPDFWhe) <br />
 
+**Quantum Computing India** <br />
+
+**IndiQ** <br />
+
 
 ## Tech-Specific Communities <br />
-**Qiskit** <br />
+**IBM Quantum and Qiskit** <br />
+
+**Microsoft Quantum and Q#** <br />
 
 
+## Organisations <br />
+**Quantum Open Source Foundation (QOSF)** <br />
 
-## Organisations <br /> <br />
+**Unitary Fund** <br />
