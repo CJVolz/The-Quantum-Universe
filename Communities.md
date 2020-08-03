@@ -61,7 +61,7 @@ _A Slack group for the Hispanic members._ <br />
 Slack:  [CCH group](https://join.slack.com/t/computacincun-ejz5376/shared_invite/zt-g5yd572d-K323vwOupClLJA6ljD_7eg) <br />
 
 **IndiQ Meetups** <br />
-A group organising hackathons, study sessions, and meetups in major Indian cities
+_A group organising hackathons, study sessions, and meetups in major Indian cities_
 Slack:  [IQC group]() **Need to add**<br />
 Meetups:  [IndiQ meetups](https://www.meetup.com/IndiQ-Meetups/) <br />
 YouTube:  [IndiQ channel](https://www.youtube.com/channel/UCrGwYEY1Y4pgTe1jCopu6NQ/) <br />
@@ -90,7 +90,7 @@ _1.3k members_ <br />
 Page:  [QIC page](https://www.facebook.com/groups/thequantuminformationclub/) <br />
 
 **Quantum Computing Now** <br />
-_A Group focusing on documenting the development of quantum computing._ <b />
+_A Group focusing on documenting the development of quantum computing._ <br />
 _4.1k members_ <br />
 Page:  [QCN page](https://www.facebook.com/groups/328231110942652) <br />
 
