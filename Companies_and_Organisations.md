@@ -1,7 +1,5 @@
 # Companies and Organisations <br />
 
-
-
 ## Organisations <br />
 **Quantum Open Source Foundation (QOSF)** <br />
 _The premier organisation for open source quantum between hardware and software, providing financial aid to maintain open source projects and free and open information to all._ <br />
@@ -15,3 +13,7 @@ GitLab:  [QOSF projects](https://gitlab.com/qosf) <br />
 
 
 **Unitary Fund** <br />
+_The nonprofit that offers financial aid through a rolling admissions microgrant program and conducts research into quantum technology ecosystem._ <br />
+website:  [Unitary Fund](https://unitary.fund/) <br />
+
+
