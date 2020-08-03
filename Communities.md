@@ -32,10 +32,10 @@ Discord:  [(People Interested in) Quantum Universal Education server](https://di
 **Women in Quantum Computing and Applications (WIQCA)** <br />
 _Based in Seattle with a global audience, this group puts on many events online and conducts open source projects._ <br />
 website:  [WIQCA website](https://www.wiqca.dev/) <br />
-Meetups:  [WIQCA Meetups]() <br />
-Slack:  [Slack group](https://join.slack.com/t/wiqca/shared_invite/zt-9nlk2f4y-vVY5gtm1WNnqsUQZ7b3f6g) **(need to fix)**<br />
+Meetups:  [WIQCA meetups]() <br />
+Slack:  [WIQCA group](https://join.slack.com/t/wiqca/shared_invite/zt-9nlk2f4y-vVY5gtm1WNnqsUQZ7b3f6g) **(need to fix)**<br />
 Twitter:  [@WIQCA](https://twitter.com/wiqca) <br />
-GitHub:  [Organisation Repository](https://github.com/wiqca) <br />
+GitHub:  [WIQCA repos](https://github.com/wiqca) <br />
 
 **Indi Quantum Community** <br />
 _An international group formed from the Indian Qiskit School that was created as a study group during the QGSS 2020 focusing on promoting the quantum foundations for undergrads and high school students._ <br />
@@ -51,9 +51,13 @@ Facebook:  [QH group](https://www.facebook.com/groups/291702898702788) <br />
 Discord:  [QH server](https://discord.gg/sNMu8w) <br />
 WhatsApp:  [QH chat](https://chat.whatsapp.com/G1l2iyrCN9u0OIsZPDFWhe) <br />
 
-**Quantum Computing India** <br />
-
-**IndiQ** <br />
+**IndiQ Meetups** <br />
+A group organising hackathons, study sessions, and meetups in major Indian cities
+Slack:  []() **Need to add**<br />
+Meetups:  [IndiQ meetups](https://www.meetup.com/IndiQ-Meetups/) <br />
+YouTube:  [IndiQ channel](https://www.youtube.com/channel/UCrGwYEY1Y4pgTe1jCopu6NQ/) <br />
+Twitter:  [@IndiQmeetups](https://twitter.com/IndiQmeetups) <br />
+GitHub:  [IndiQ repos](https://github.com/IndiQ-Meetups) <br />
 
 
 ## Tech-Specific Communities <br />
