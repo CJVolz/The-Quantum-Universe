@@ -3,6 +3,17 @@ Taking inspiration from Desiree Vogt-Lee's absolutely fantastic "Awesome Quantum
 
 ## Communities <br />
 (_List of servers and places that facilitates communities_) <br />
+### Cross-Platform <br />
+Quantum Undergrads Unite <br />
+_Devoted to creating connections with undergrads globally, and highlighting resources and events relevant to undergrad learning and experience._ <br />
+ - Discord:  
+ - WhatsApp:  
+ 
+ Quantum Intuition
+ _Founded by Daniel Colomer as a basecamp to learn new topics and ideas and discuss them with peers_ <br />
+- YouTube:  
+- Discord:  
+
 ### Discord
 - Quantum Intuition <br />
 - Qftics (to be created soon) <br />
