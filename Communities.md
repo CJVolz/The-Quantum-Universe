@@ -1,7 +1,7 @@
 # Communities of Quantum Space
 ## Reddit <br />
 Quantum  - [r/quantum](https://www.reddit.com/r/quantum/) <br />
-   -> note:  Quantum Physics (r/QuantumPhysics) redirects to Quantum <br />
+   -> note:  Quantum Physics (r/QuantumPhysics) now redirects to Quantum <br />
 Quantum Computing - [r/QuantumComputing](https://www.reddit.com/r/QuantumComputing/) <br />
 Quantum Information - [r/QuantumInformation](https://www.reddit.com/r/QuantumInformation/) <br /> <br />
 
@@ -37,8 +37,6 @@ Twitter:  [@WIQCA](https://twitter.com/wiqca) <br />
 Github:  [Organisation Repository](https://github.com/wiqca) <br />
 
 
-
-
 ## National Communities <br />
 **Quantum Hispano** <br />
 _Community devoted for the Hispanic members_ <br />
@@ -47,6 +45,8 @@ Discord:  [QH server](https://discord.gg/sNMu8w) <br />
 WhatsApp:  [QH chat](https://chat.whatsapp.com/G1l2iyrCN9u0OIsZPDFWhe) <br />
 
 
+## Tech-Specific Communities <br />
+**Qiskit** <br />
 
 
 
