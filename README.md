@@ -29,9 +29,9 @@ _Devoted to creating connections with undergrads globally, and highlighting reso
 
 ### Others
 
-## Organisations
+### Organisations
 
-## [News and Social Medias](Social Medias.md)
+## [News and Social Medias](News_and_Social_Medias.md)
 ### YouTube Channels
 
 ### Podcasts
