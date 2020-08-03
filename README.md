@@ -1,7 +1,7 @@
 # The Quantum Universe
 Taking inspiration from Desiree Vogt-Lee's absolutely fantastic "Awesome Quantum Computing" repository of materials, I will be writing down all the resources I use and come across as I explore Quantum Space.  This is open for all people to use and if you've got a suggestion, just send it my way and I'll look at it.  
 
-## Communities <br />
+## [Communities](Communities.md) <br />
 (_List of servers and places that facilitates communities_) <br />
 ### Cross-Platform <br />
 Quantum Undergrads Unite <br />
@@ -31,7 +31,7 @@ _Devoted to creating connections with undergrads globally, and highlighting reso
 
 ## Organisations
 
-## Social Medias
+## [News and Social Medias](Social Medias.md)
 ### YouTube Channels
 
 ### Podcasts
@@ -42,8 +42,8 @@ _Devoted to creating connections with undergrads globally, and highlighting reso
 
 ## News and Blogs
 
-## Online Learning
+## [Online Learning](Online Learning.md)
 
-## Games
+## [Games and Simulators](Games and Simulators.md)
 
-## Simulators
+## [Books](Books.md)
