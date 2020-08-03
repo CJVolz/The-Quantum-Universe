@@ -1,7 +1,7 @@
 # The Quantum Universe
 Taking inspiration from Desiree Vogt-Lee's absolutely fantastic "Awesome Quantum Computing" repository of materials, I will be writing down all the resources I use and come across as I explore Quantum Space.  This is open for all people to use and if you've got a suggestion, just send it my way and I'll look at it.  
 
-## [Communities](Communities.md) <br />
+## [Online Communities](Communities.md) <br />
 (_List of servers and places that facilitates communities_) <br />
 
 ## [News and Social Medias](News_and_Social_Medias.md)
