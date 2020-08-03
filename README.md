@@ -44,6 +44,6 @@ _Devoted to creating connections with undergrads globally, and highlighting reso
 
 ## [Online Learning](Online_Learning.md)
 
-## [Games and Simulators](Games and Simulators.md)
+## [Games and Simulators](Games_and_Simulators.md)
 
-## [Books](Books.md)
+## [Books](Books_and_Papers.md)
