@@ -42,7 +42,7 @@ _Devoted to creating connections with undergrads globally, and highlighting reso
 
 ## News and Blogs
 
-## [Online Learning](Online Learning.md)
+## [Online Learning](Online_Learning.md)
 
 ## [Games and Simulators](Games and Simulators.md)
 
