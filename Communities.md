@@ -14,8 +14,9 @@ _Only a few of the many available_<br />
 ## General Communities <br />
 **Quantum Undergrads Unite** <br />
 _Devoted to fostering connections with undergrads globally, and highlighting resources and events relevant to undergrad learning and experience._ <br />
- - Discord:  <br />
- - WhatsApp:  <br />
+Discord:  []() <br />
+WhatsApp:  []() <br />
+Github:  []() <br />
  
 **Quantum Intuition** <br />
 _Founded by Daniel Colomer as a basecamp with a focus on algorithms and circuits, but open to learning and discussion about all topics and ideas in quantum computing among peers of all experience levels._ <br />
@@ -41,7 +42,7 @@ _An international group formed from the Indian Qiskit School that was created as
 Discord: [IQC server](https://discord.gg/XpUpDm4) <br />
 Slack:  []() **to add**<br /> 
 WhatsApp:  ["Qiskit Summer School" chat](https://bit.ly/2ZISxvi) <br />
-Github:  []() **to add**<br />
+Github:  [IQC repos](https://github.com/Indi-Quantum-Community) <br />
 
 ## National Communities <br />
 **Quantum Hispano** <br />
@@ -56,9 +57,16 @@ WhatsApp:  [QH chat](https://chat.whatsapp.com/G1l2iyrCN9u0OIsZPDFWhe) <br />
 
 
 ## Tech-Specific Communities <br />
-**IBM Quantum and Qiskit** <br />
+_Note - these are not company related.  For companies and their socials, please see the Quantum Companies page._ <br />
 
-**Microsoft Quantum and Q#** <br />
+**Q# Community** <br />
+_A group for collecting and maintaining projects built with Q#._ <br />
+website:  []() <br />
+Slack:  [Q#-C group](https://qsharp-community.slack.com/join/shared_invite/zt-fnsl4u42-u21wdJRzlLF9oAqYTDDtwA#/) <br />
+Twitter:  [@QSharpCommunity](https://twitter.com/QSharpCommunity) <br />
+Instagram:  [@QSharpCommunity](https://www.instagram.com/qsharpcommunity/) <br />
+Github:  [Q#-C repos and Gitter](https://github.com/qsharp-community) <br />
+
 
 
 ## Organisations <br />
