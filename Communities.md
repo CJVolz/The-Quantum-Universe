@@ -16,7 +16,7 @@ _Only a few of the many available_<br />
 _Devoted to fostering connections with undergrads globally, and highlighting resources and events relevant to undergrad learning and experience._ <br />
 Discord:  []() <br />
 WhatsApp:  []() <br />
-Github:  []() <br />
+GitHub:  []() <br />
  
 **Quantum Intuition** <br />
 _Founded by Daniel Colomer as a basecamp with a focus on algorithms and circuits, but open to learning and discussion about all topics and ideas in quantum computing among peers of all experience levels._ <br />
@@ -33,16 +33,16 @@ Discord:  [(People Interested in) Quantum Universal Education server](https://di
 _Based in Seattle with a global audience, this group puts on many events online and conducts open source projects._ <br />
 website:  [WIQCA website](https://www.wiqca.dev/) <br />
 Meetups:  [WIQCA Meetups]() <br />
-Slack:  [Slack group](wiqca.slack.com) **(need to fix)**<br />
+Slack:  [Slack group](https://join.slack.com/t/wiqca/shared_invite/zt-9nlk2f4y-vVY5gtm1WNnqsUQZ7b3f6g) **(need to fix)**<br />
 Twitter:  [@WIQCA](https://twitter.com/wiqca) <br />
-Github:  [Organisation Repository](https://github.com/wiqca) <br />
+GitHub:  [Organisation Repository](https://github.com/wiqca) <br />
 
 **Indi Quantum Community** <br />
 _An international group formed from the Indian Qiskit School that was created as a study group during the QGSS 2020 focusing on promoting the quantum foundations for undergrads and high school students._ <br />
 Discord: [IQC server](https://discord.gg/XpUpDm4) <br />
 Slack:  []() **to add**<br /> 
 WhatsApp:  ["Qiskit Summer School" chat](https://bit.ly/2ZISxvi) <br />
-Github:  [IQC repos](https://github.com/Indi-Quantum-Community) <br />
+GitHub:  [IQC repos](https://github.com/Indi-Quantum-Community) <br />
 
 ## National Communities <br />
 **Quantum Hispano** <br />
@@ -65,11 +65,20 @@ website:  []() <br />
 Slack:  [Q#-C group](https://qsharp-community.slack.com/join/shared_invite/zt-fnsl4u42-u21wdJRzlLF9oAqYTDDtwA#/) <br />
 Twitter:  [@QSharpCommunity](https://twitter.com/QSharpCommunity) <br />
 Instagram:  [@QSharpCommunity](https://www.instagram.com/qsharpcommunity/) <br />
-Github:  [Q#-C repos and Gitter](https://github.com/qsharp-community) <br />
+GitHub:  [Q#-C repos and Gitter](https://github.com/qsharp-community) <br />
 
 
 
 ## Organisations <br />
 **Quantum Open Source Foundation (QOSF)** <br />
+_The premier organisation for open source quantum between hardware and software, providing financial aid to maintain open source projects and free and open information to all._ <br />
+website:  [Quantum Open Source Foundation](https://qosf.org/) <br />
+Facebook:  [QOSF page](https://www.facebook.com/quantumOSfoundation) <br />
+YouTube:  [QOSF channel](https://www.youtube.com/channel/UCcEdG3UB19AZMxHymhefh1Q) <br />
+Twitter:  [@QOSFoundation](https://twitter.com/qosfoundation) <br />
+Instagram:  [@QOSFoundation](https://www.instagram.com/qosfoundation/) <br />
+GitHub:  [QOSF repos](https://github.com/qosf) <br />
+GitLab:  [QOSF projects](https://gitlab.com/qosf) <br />
+
 
 **Unitary Fund** <br />
