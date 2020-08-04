@@ -20,6 +20,7 @@ website:  [Unitary Fund](https://unitary.fund/) <br /> <br />
 **Quantum Computing India (QCI)** <br />
 _A community focused on disseminating knowledge through a #KnowledgeSeries and #HackSeries using courses, webinars, podcasts, and real-world problem handling_ <br />
 website:  [Quantum Computing India](https://quantumcomputingindia.com/) <br />
+Discord:  [QCI server](https://discord.gg/W6e2tV4) <br />
 Medium:  [QCI blog](https://medium.com/quantumcomputingindia) <br />
 LinkedIn:  [QCI profile](https://www.linkedin.com/company/quantumcomputingindia/) <br />
 Facebook:  [QCI page](https://www.facebook.com/quantumcomputingindia/) <br />
